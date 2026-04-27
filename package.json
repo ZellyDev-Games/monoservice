@@ -1,0 +1,19 @@
+﻿{
+  "name": "com.github.zellydev-games.monoservice",
+  "version": "1.0.0",
+  "displayName": "Monoservice Registry",
+  "description": "Service registry and locator",
+  "unity": "6000.3",
+  "author": {
+    "name": "ZellyDev Games",
+    "url": "https://zellydev.com"
+  },
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Basic Example",
+      "description": "A minimal example scene or setup.",
+      "path": "Samples~/Basic Example"
+    }
+  ]
+}
